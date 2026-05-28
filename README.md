@@ -1,5 +1,3 @@
-# py_lab
-
 # Python Journey 🐍
 
 A structured repository documenting my Python learning journey through hands-on practice, exercises etc.
